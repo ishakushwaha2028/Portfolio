@@ -1,11 +1,5 @@
 # 🚀 Isha Kumari | Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20DevOps%20%26%20Software%20Engineer-blue" alt="Role">
-</p>
-
----
 
 ## 📌 About Me
 Welcome to my personal portfolio website! This project showcases my journey as a B.Tech Computer Science student, highlighting my core technical skills, projects, and academic milestones. It serves as a central hub for my work in full-stack development and infrastructure.
