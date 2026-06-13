@@ -1,7 +1,6 @@
 # 🚀 Isha Kumari | Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
   <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Role-Aspiring%20DevOps%20%26%20Software%20Engineer-blue" alt="Role">
 </p>
