@@ -1,5 +1,12 @@
 # 🚀 Isha Kumari | Portfolio
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
 
 ## 📌 About Me
 Welcome to my personal portfolio website! This project showcases my journey as a B.Tech Computer Science student, highlighting my core technical skills, projects, and academic milestones. It serves as a central hub for my work in full-stack development and infrastructure.
